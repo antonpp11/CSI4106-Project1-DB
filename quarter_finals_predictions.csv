@@ -1,9 +1,5 @@
 ﻿date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_rank,away_team_fifa_rank,home_team_total_fifa_points,away_team_total_fifa_points,home_team_score,away_team_score,tournament,city,country,neutral_location,shoot_out,home_team_result,home_team_goalkeeper_score,away_team_goalkeeper_score,home_team_mean_defense_score,home_team_mean_offense_score,home_team_mean_midfield_score,away_team_mean_defense_score,away_team_mean_offense_score,away_team_mean_midfield_score
-2022-12-09,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-09,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-10,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-10,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-13,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-14,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-17,,,,,,,,,,,,,,,,,,,,,,,,
-2022-12-18,,,,,,,,,,,,,,,,,,,,,,,,
+2022-12-09,Netherlands,Argentina,,,8,3,,,,,,,,TRUE,,Lose,,,,,,,,
+2022-12-09,England,France,,,5,4,,,,,,,,TRUE,,Lose,,,,,,,,
+2022-12-10,Spain,Brazil,,,7,1,,,,,,,,TRUE,,Lose,,,,,,,,
+2022-12-10,Germany,Portugal,,,11,9,,,,,,,,TRUE,,Lose,,,,,,,,
